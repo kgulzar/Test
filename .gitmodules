@@ -1,0 +1,9 @@
+[submodule "src/DynamixelSDK"]
+	path = src/DynamixelSDK
+	url = https://github.com/ROBOTIS-GIT/DynamixelSDK.git
+[submodule "src/jsoncpp"]
+	path = src/jsoncpp
+	url = https://github.com/open-source-parsers/jsoncpp.git
+[submodule "src/blandinium-inih"]
+	path = src/blandinium-inih
+	url = https://github.com/Blandinium/inih.git
